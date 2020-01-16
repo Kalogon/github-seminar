@@ -3,3 +3,4 @@ issue2
 rebase test
 check name
 check name2
+check check
